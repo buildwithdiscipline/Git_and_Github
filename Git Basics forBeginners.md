@@ -328,7 +328,7 @@ git restore index.html
 
 ---
 
-# Key Interview Questions
+# Key Questions
 
 ### What is Git?
 
