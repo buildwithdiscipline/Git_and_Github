@@ -534,8 +534,6 @@ git branch -d footer
 | `git branch name` | Create branch |
 | `git checkout name` | Switch branch |
 | `git checkout -b name` | Create and switch |
-| `git switch name` | Switch branch |
-| `git switch -c name` | Create and switch |
 | `git branch -m name` | Rename branch |
 | `git branch -d name` | Delete branch |
 | `git branch -D name` | Force delete branch |
